@@ -1,0 +1,30 @@
+﻿#weiKeyBoard {
+    border-spacing: 0px;
+    border-right: 1px solid #d2d2d2;
+    border-bottom: 1px solid #d2d2d2;
+    height: 40%;
+    width: 100%;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 1px;
+    left: 1px;
+    right: 0px;
+    z-index: 999999;
+}
+
+    #weiKeyBoard tr {
+    }
+
+    #weiKeyBoard td {
+        border-left: 1px solid #d2d2d2;
+        font-size: 2.125rem;
+        border-spacing: 0px;
+        height: 50px;
+        border-top: 1px solid #d2d2d2;
+        text-align: center;
+        color: black;
+    }
+
+.weiKeyNum {
+    width: 33.3333%;
+}
